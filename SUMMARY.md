@@ -36,10 +36,6 @@
 * [HttpClient](angular-building-blocks/httpclient.md)
 * [Forms](angular-building-blocks/forms.md)
 
-## Angular Lab Exercise
-
-* [Lab 1: Create your own Ethereum Private network](angular-development-lab/lab-1-creating-your-own-private-network.md)
-
 ## Testing Angular
 
 * [Unit Testing](testing-angular/unit-testing.md)
@@ -51,6 +47,14 @@
 * [Using Debugger](debugging-angular/using-debugger.md)
 * [Using Augury](debugging-angular/using-augury.md)
 * [Using Visual Studio Code](debugging-angular/using-visual-studio-code.md)
+
+## UI Performance Engineering
+
+* [Angular Best Practices](front-end-performance-engineering/angular-best-practices.md)
+
+## Angular Lab Exercise
+
+* [Lab 1: Create your own Ethereum Private network](angular-development-lab/lab-1-creating-your-own-private-network.md)
 
 ## Resources
 
