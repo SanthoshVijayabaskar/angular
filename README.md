@@ -4,7 +4,7 @@ description: Welcome to the 2019 Angular Developer course.
 
 # Introduction
 
-![](.gitbook/assets/2473230_0.jpg)
+![](.gitbook/assets/angular-training.png)
 
 ### Course Objective 
 
