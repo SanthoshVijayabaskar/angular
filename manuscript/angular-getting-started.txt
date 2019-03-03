@@ -39,7 +39,6 @@ understanding and learn the necessary tools & best practices to become a success
 {alt: "Simple Web Page"}
 ![Simple Web Page](first-gen-web-page.png)
 
-{icon: info-square}
 I> You can't spell carbon without it!
 
 {course-instructor: true}
