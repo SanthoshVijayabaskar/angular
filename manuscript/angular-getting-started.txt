@@ -33,13 +33,20 @@ understanding and learn the necessary tools & best practices to become a success
 3 Basic files which constitutes a web page are,
 
 1) HTML - Defines the structure of the web page. Referred as 'The DOM - Document Object Model'
-2) JavaScript - Defines the dynamic behaviour of the web page, such as business logic, animation and Manipulation of the DOM.
+2) JavaScript - Defines the dynamic behavior of the web page, such as business logic, animation.
 3) CSS - Defines the styling of the web page
 
+{alt: "Simple Web Page"}
+![Simple Web Page](first-gen-web-page.png)
+
+{icon: info-square}
+I> You can't spell carbon without it!
+
+{course-instructor: true}
 In the first gen web page, HTML was often inferred powerful in rendering a page to the user. Hence we loaded the JS inside a HTML.
 But with the advent of AJAX in 2005 and followed by powerful Javacript front-end frameworks, we started to realize the power of JavaScript.
 React JS was the first JS Framework where we started to include the HTML templates within JavaScript providing JS the complete authority in rendering the page to the user.
 
 Angular and other popular JavaScript Frameworks now-a-days load one single main.js file within the index.html file. As the browser loads the index.html, a process known as bootstraping
 kicks-in and the complete control of the DOM is delegated to the JavaScript layer. This modern approach of loading a single HTML file led way to what we today know as "Single Page Web Application".
-
+{course-instructor: false}
