@@ -28,7 +28,7 @@ understanding and learn the necessary tools & best practices to become a success
 
 # Angular Getting Started
 
-## First Generation Web
+## Building Blocks of a Web Page
 
 3 Basic files which constitutes a web page are,
 
@@ -39,7 +39,39 @@ understanding and learn the necessary tools & best practices to become a success
 {alt: "Simple Web Page"}
 ![Simple Web Page](first-gen-web-page.png)
 
-I> You can't spell carbon without it!
+## Server-side Rendering (From 1990)
+
+Since the advent of Internet, web pages are served to browsers using server-side rendering. In this approach, the user request the server for every page and piece of information and
+server responds to the browser with necessary markup and information. Hence, Each user action required that a complete new page be loaded from the server.
+
+{alt: "Server-side Rendering"}
+![Server-side Rendering](server-side-rendering.png)
+
+The advantage of server-side rendering was browser need not do the heavy-lifting as the whole page is computed and rendered in the server and only the HTML markup is served to the browser.
+Whereas the major dis-advantage of server-side rendering was reduced user Experience due to Frequent Page Load
+
+## Birth of Ajax and XMLHttpResponse (2005)
+
+In Feb 18th 2005, Jesse James Garrett in an article titled Ajax: A New Approach to Web Applications introduces the "AJAX" which was based on techniques used on Google pages.
+AJAX introduced a new API called "XMLHttpResponse" which established communication between web browser and server where data can be exchanged. In 2006, W3C officially released
+the first draft specification to standardize XMLHttpResponse as a Web Standards.
+
+{alt: "Birth of Ajax Picture"}
+![Birth of Ajax](birth-of-ajax.png)
+
+With the advent of AJAX, the user sent a request to the server for the first time and subsequent requests were made to server only to fetch data. This way the web page was not completely
+loaded / refreshed, only parts of the page were refereshed as new data arrived via XMLHttpResponse.
+
+The advantage of using AJAX was enhanced user experience and efficient usage of network as less requests were made to load the markup.
+
+## Single Page Application (2009)
+
+Advancement of Browsers and JavaScript language gave birth of numerous powerful client-side framework. This led to the development of what we know today as "Single Page Web Applications"
+
+{alt: "Single Page Applications"}
+![Single Page Applications](single-page-apps.png)
+
+Single-Page Applications (SPAs) are Web apps that load a single HTML page and dynamically update that page as the user interacts with the app. SPAs use AJAX and HTML5 to create fluid and responsive Web apps, without constant page reloads.
 
 {course-instructor: true}
 In the first gen web page, HTML was often inferred powerful in rendering a page to the user. Hence we loaded the JS inside a HTML.
@@ -49,3 +81,53 @@ React JS was the first JS Framework where we started to include the HTML templat
 Angular and other popular JavaScript Frameworks now-a-days load one single main.js file within the index.html file. As the browser loads the index.html, a process known as bootstraping
 kicks-in and the complete control of the DOM is delegated to the JavaScript layer. This modern approach of loading a single HTML file led way to what we today know as "Single Page Web Application".
 {course-instructor: false}
+
+# Hands-on Angular
+
+## Development Environment Setup
+
+## Hello Angular
+
+## Angular Project structure
+
+## Angular Component Hirearchy
+
+## Angular Bootstrapping
+
+# Angular Building Blocks
+
+## Modules
+
+## Components
+
+### Component Lifecycle
+
+### Component Communication
+
+## Templates
+
+## Data Bindings
+
+## Directives
+
+## Routing
+
+## Services
+
+## Pipes
+
+## HttpClient
+
+## Forms
+
+# TypeScript Fundamentals
+
+# TypeScript Linting
+
+# Unit Testing
+
+# Debugging Angular apps
+
+# Performance Best practices
+
+# Frequently asked Questions (FAQs)
