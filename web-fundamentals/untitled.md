@@ -1,7 +1,5 @@
 # From 1990 to Present
 
-
-
 ### Building Blocks of a Web Page
 
 3 Basic files which constitutes a web page are,

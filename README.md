@@ -4,6 +4,8 @@ description: Welcome to the 2019 Angular Developer course.
 
 # Introduction
 
+![](.gitbook/assets/2473230_0.jpg)
+
 ### Course Objective 
 
 This course aims to teach you Angular 6 from beginner to advanced level using bite-sized lessons and hands-on exercises. 👨💻 
