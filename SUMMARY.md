@@ -1,10 +1,11 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Dev Environment Setup](dev-environment-setup.md)
 
-## Blockchain Fundamentals
+## Evolution of Web Development
 
-* [Untitled](blockchain-fundamentals/untitled.md)
+* [From 1990 to Present](web-fundamentals/untitled.md)
 
 ## Ethereum Lab Exercise
 
