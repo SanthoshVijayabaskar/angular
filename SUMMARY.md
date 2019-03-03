@@ -7,11 +7,20 @@
 
 * [From 1990 to Present](web-fundamentals/untitled.md)
 
-## Ethereum Lab Exercise
+## Introduction to Angular
 
-* [Lab 1: Create your own Ethereum Private network](ethereum-development-lab/lab-1-creating-your-own-private-network.md)
+* [Angular JS](introduction-to-angular/angular-js.md)
 
-## Resources & Read More
+## Angular Lab Exercise
 
-* [Frequently asked Questions](resources-and-read-more/frequently-asked-questions.md)
+* [Lab 1: Create your own Ethereum Private network](angular-development-lab/lab-1-creating-your-own-private-network.md)
+
+## Resources
+
+* [Download Cheatsheet](resources/dev-environment-setup.md)
+
+## Read More
+
+* [Frequently asked Questions](read-more/frequently-asked-questions.md)
+* [Must-read articles](read-more/must-read-articles.md)
 
