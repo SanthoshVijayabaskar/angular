@@ -40,6 +40,18 @@
 
 * [Lab 1: Create your own Ethereum Private network](angular-development-lab/lab-1-creating-your-own-private-network.md)
 
+## Testing Angular
+
+* [Unit Testing](testing-angular/unit-testing.md)
+* [Integration Testing](testing-angular/integration-testing.md)
+* [End-to-end Testing](testing-angular/end-to-end-testing.md)
+
+## Debugging Angular
+
+* [Using Debugger](debugging-angular/using-debugger.md)
+* [Using Augury](debugging-angular/using-augury.md)
+* [Using Visual Studio Code](debugging-angular/using-visual-studio-code.md)
+
 ## Resources
 
 * [Download Cheatsheet](resources/dev-environment-setup.md)
@@ -47,5 +59,5 @@
 ## Read More
 
 * [Frequently asked Questions](read-more/frequently-asked-questions.md)
-* [Must-read articles](read-more/must-read-articles.md)
+* [Must read Articles](read-more/must-read-articles.md)
 
