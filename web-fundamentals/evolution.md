@@ -4,9 +4,9 @@
 
 3 Basic files which constitutes a web page are,
 
-1. HTML - Defines the structure of the web page. Referred as 'The DOM - Document Object Model' 
-2. JavaScript - Defines the dynamic behavior of the web page, such as business logic, animation.
-3. CSS - Defines the styling of the web page
+1. **HTML** - Defines the structure of the web page. Referred as 'The DOM - Document Object Model' 
+2. **JavaScript** - Defines the dynamic behavior of the web page, such as business logic, animation.
+3. **CSS** - Defines the styling of the web page
 
 ![3 Building blocks of a Simple web page](../.gitbook/assets/first-gen-web-page.png)
 
@@ -24,7 +24,7 @@ In Feb 18th 2005, Jesse James Garrett in an article titled Ajax: A New Approach 
 
 ![Birth of AJAX and XMLHttpResponse](../.gitbook/assets/birth-of-ajax.png)
 
-With the advent of AJAX, the user sent a request to the server for the first time and subsequent requests were made to server only to fetch data. This way the web page was not completely loaded / refreshed, only parts of the page were refreshed as new data arrived via XMLHttpResponse.
+With the advent of AJAX, the user sent a request to the server for the first time and subsequent requests were made to server only to fetch data. This way the web page was not completely loaded / refreshed, only parts of the page were refreshed as new data arrived via 'XMLHttpResponse'.
 
 The advantage of using AJAX was enhanced user experience and efficient usage of network as less requests were made to load the markup.
 
@@ -34,5 +34,17 @@ Advancement of Browsers and JavaScript language gave birth of numerous powerful 
 
 ![Single Page Application ](../.gitbook/assets/single-page-apps.png)
 
-Single-Page Applications \(SPAs\) are Web apps that load a single HTML page and dynamically update that page as the user interacts with the app. SPAs use AJAX and HTML5 to create fluid and responsive Web apps, without constant page reloads.
+Single-Page Applications \(SPA's\) are Web apps that load a single HTML page and dynamically update that page as the user interacts with the app. SPA's use AJAX and HTML 5 to create fluid and responsive Web apps, without constant page reloads.
+
+### SPA Technologies
+
+![Top 3 JavaScript Technologies used to build Single Page Application](../.gitbook/assets/popular-spa-tech.png)
+
+{% hint style="info" %}
+According to Martin Fowler,
+
+A **library** is essentially a set of functions that you can call, these days usually organized into classes. Each call does some work and returns control to the client.
+
+A **framework** embodies some abstract design, with more behavior built in. In order to use it you need to insert your behavior into various places in the framework either by sub-classing or by plugging in your own classes. The framework's code then calls your code at these points.
+{% endhint %}
 
