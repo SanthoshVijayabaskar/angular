@@ -36,6 +36,10 @@
 * [HttpClient](angular-building-blocks/httpclient.md)
 * [Forms](angular-building-blocks/forms.md)
 
+## MISC
+
+* [Webpack](misc/webpack.md)
+
 ## Testing Angular
 
 * [Unit Testing](testing-angular/unit-testing.md)
@@ -55,6 +59,10 @@
 ## Angular Lab Exercise
 
 * [Lab 1: Create your own Ethereum Private network](angular-development-lab/lab-1-creating-your-own-private-network.md)
+
+## Cap Stone Project
+
+* [Movies App](cap-stone-project/movies-app.md)
 
 ## Resources
 
