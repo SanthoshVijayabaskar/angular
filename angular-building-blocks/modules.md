@@ -9,7 +9,7 @@ A **module** is a reusable piece of code that encapsulates implementation detail
 
 ![](../.gitbook/assets/modules-01.PNG)
 
-![](../.gitbook/assets/modules-02.PNG)
+![](../.gitbook/assets/ngmodules.png)
 
 ![](../.gitbook/assets/modules-03.PNG)
 
