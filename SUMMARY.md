@@ -64,6 +64,11 @@
 
 * [Movies App](cap-stone-project/movies-app.md)
 
+## JavaScript ES6 and TypeScript
+
+* [Introducing ES6 Concepts](javascript-es6-and-typescript/introducing-es6-concepts.md)
+* [TypeScript Foundation](javascript-es6-and-typescript/typescript-foundation.md)
+
 ## Resources
 
 * [Download Cheatsheet](resources/dev-environment-setup.md)
