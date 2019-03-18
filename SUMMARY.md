@@ -14,12 +14,12 @@
 * [Front-end Architecture](introduction-to-angular/front-end-architecture.md)
 * [Understanding Component Driven Design](introduction-to-angular/understanding-component-driven-design.md)
 
-## First Angular Application
+## Getting Started
 
-* [Creating new angular Project](first-angular-application/creating-new-angular-project.md)
-* [Angular Project Structure](first-angular-application/angular-project-structure.md)
-* [Angular Component Hierarchy](first-angular-application/angular-component-hierarchy.md)
-* [Angular Bootstrapping](first-angular-application/angular-bootstrapping.md)
+* [Creating new angular Project](getting-started-angular/creating-new-angular-project.md)
+* [Angular Project Structure](getting-started-angular/angular-project-structure.md)
+* [Angular Component Hierarchy](getting-started-angular/angular-component-hierarchy.md)
+* [Angular Bootstrapping](getting-started-angular/angular-bootstrapping.md)
 
 ## Angular Building Blocks
 
