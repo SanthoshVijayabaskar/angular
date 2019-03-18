@@ -20,6 +20,7 @@
 * [Angular Project Structure](getting-started-angular/angular-project-structure.md)
 * [Angular Component Hierarchy](getting-started-angular/angular-component-hierarchy.md)
 * [Angular Bootstrapping](getting-started-angular/angular-bootstrapping.md)
+* [Angular Architecture](getting-started-angular/angular-architecture.md)
 
 ## Angular Building Blocks
 
@@ -39,26 +40,13 @@
 ## MISC
 
 * [Webpack](misc/webpack.md)
-
-## Testing Angular
-
-* [Unit Testing](testing-angular/unit-testing.md)
-* [Integration Testing](testing-angular/integration-testing.md)
-* [End-to-end Testing](testing-angular/end-to-end-testing.md)
+* [Understanding Change Detection in Angular](misc/understanding-change-detection-in-angular.md)
 
 ## Debugging Angular
 
 * [Using Debugger](debugging-angular/using-debugger.md)
 * [Using Augury](debugging-angular/using-augury.md)
 * [Using Visual Studio Code](debugging-angular/using-visual-studio-code.md)
-
-## UI Performance Engineering
-
-* [Angular Best Practices](front-end-performance-engineering/angular-best-practices.md)
-
-## Angular Lab Exercise
-
-* [Lab 1: Create your own Ethereum Private network](angular-development-lab/lab-1-creating-your-own-private-network.md)
 
 ## Cap Stone Project
 
@@ -75,6 +63,5 @@
 
 ## Read More
 
-* [Frequently asked Questions](read-more/frequently-asked-questions.md)
 * [Must read Articles](read-more/must-read-articles.md)
 
