@@ -13,5 +13,10 @@
 * [Understanding the magic of ES6 Generators](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)
 * [ES6 Browser Comparability Chart](http://kangax.github.io/compat-table/esnext/)
 
+### TypeScript 
+
+* [Understanding static typing and why it's important in TypeScript?](https://medium.freecodecamp.org/why-use-static-types-in-javascript-part-2-part-3-be699ee7be60)
+* [TypeScript Deep-dive Book by Basarat Ali Syed](https://legacy.gitbook.com/book/basarat/typescript/details)
+
 
 
