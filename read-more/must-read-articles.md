@@ -18,7 +18,9 @@
 * [Understanding static typing and why it's important in TypeScript?](https://medium.freecodecamp.org/why-use-static-types-in-javascript-part-2-part-3-be699ee7be60)
 * [TypeScript Deep-dive Book by Basarat Ali Syed](https://legacy.gitbook.com/book/basarat/typescript/details)
 
-### Tools
+### Tools & Utilities
 
 * **Bundlephobia** - [Find the cost of adding a npm package to your bundle](https://bundlephobia.com)
+
+
 
